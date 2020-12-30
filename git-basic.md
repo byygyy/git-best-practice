@@ -19,3 +19,5 @@ git reset --hard HEAD^
 ## git rollback to a history change point
 git reset --hard commit_id 
 
+## revoke changes in workspace before git add
+git restore git-basic.md
