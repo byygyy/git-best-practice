@@ -8,5 +8,14 @@ git push
 ## get the status current branch
 git status  
 
-## get the git log
+## get the git commit log  
 git log  
+## got tht hisgory log
+git reflog  
+
+## git rollback to a last change point  
+git reset --hard HEAD^  
+
+## git rollback to a history change point
+git reset --hard commit_id 
+
