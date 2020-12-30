@@ -10,7 +10,7 @@ git status
 
 ## get the git commit log  
 git log  
-## got tht hisgory log
+## got the hisgory log
 git reflog  
 
 ## git rollback to a last change point  
